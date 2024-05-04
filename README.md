@@ -8,7 +8,7 @@ I'm currently a junior at Guru Gobind Singh Indraprastha University in New Delhi
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_shubham_singla) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shubham-singla-b19003256/) 
 
-# 💻 SKills:
+# 💻 Technical SKills:
 * Programming Language: Python<br>
 * Machine Learning Skills: Statistics, Data Analysis, Deep Learning, CNN, LLM, Langchain<br>
 * Libraries: Numpy, Pandas, Seaborn, Scikit-Learn, TensorFlow, Keras, Pytorch, LLM, OPENAI<br>
