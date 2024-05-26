@@ -1,4 +1,11 @@
-# 💫 About Me:
+<div align="center">
+  <h1>Hey 👋, I'm Shubham Singla!</h1>
+</div>
+
+<div align="center">
+  <h1>💫 LET ME INTRODUCE MYSELF:</h1>
+</div>
+
 I'm currently a junior at Guru Gobind Singh Indraprastha University in New Delhi, working towards a Bachelor of Technology in Artificial Intelligence & Data Science. I have a strong passion for data analytics, Python programming, and contributing to open source projects. I am always eager to learn and help in any way I can. <br>
 <br>
 🔭 I’m working on some personal projects right now.<br>👯 I’d like to work with others on cool machine learning projects.<br>🤝 I’m looking for help to find an internship.<br>🌱 I’m learning about Natural Language Processing (NLP).<br>💬 Ask me about: Artificial Intelligence, Data Science & Machine Learning.<br>⚡ Fun fact: I love the thrill of coding under pressure during contests!
