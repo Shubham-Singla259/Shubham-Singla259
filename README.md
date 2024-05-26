@@ -17,11 +17,11 @@ I'm currently a junior at Guru Gobind Singh Indraprastha University in New Delhi
  
 
 # 💻 Technical SKills:
-* Programming Language: Python<br>
-* Machine Learning Skills: Statistics, Data Analysis, Deep Learning, CNN, LLM, Langchain<br>
-* Libraries: Numpy, Pandas, Seaborn, Scikit-Learn, TensorFlow, Keras, Pytorch, LLM, OPENAI<br>
-* Web Devlopment: HTML, CSS<br>
-* Software & Utilities: VS Code, Jupyter, Basics of MS Office, Power BI<br>
+* **Programming Language:** Python<br>
+* **Machine Learning Skills:** Statistics, Data Analysis, Deep Learning, CNN, LLM, Langchain<br>
+* **Libraries:** Numpy, Pandas, Seaborn, Scikit-Learn, TensorFlow, Keras, Pytorch, LLM, OPENAI<br>
+* **Web Development:** HTML, CSS<br>
+* **Software & Utilities:** VS Code, Jupyter, Basics of MS Office, Power BI<br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Shubham-Singla259&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
