@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h1>💫 LET ME INTRODUCE MYSELF:</h1>
+  <h5> LET ME INTRODUCE MYSELF: </h5>
 </div>
 
 I'm currently a junior at Guru Gobind Singh Indraprastha University in New Delhi, working towards a Bachelor of Technology in Artificial Intelligence & Data Science. I have a strong passion for data analytics, Python programming, and contributing to open source projects. I am always eager to learn and help in any way I can. <br>
