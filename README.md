@@ -6,7 +6,7 @@
   <h3> LET ME INTRODUCE MYSELF: </h3>
 </div>
 
-I am a third-year student at Guru Gobind Singh Indraprastha University in New Delhi, pursuing a Bachelor of Technology in Artificial Intelligence & Data Science. With a strong passion for Data Science, Machine Learning, and Python programming, I actively contribute to open source projects. I am always eager to learn and assist in any way possible. <br>
+I am a Final-year student at Guru Gobind Singh Indraprastha University in New Delhi, pursuing a Bachelor of Technology in Artificial Intelligence & Data Science. With a strong passion for Data Science, Machine Learning, and Python programming, I actively contribute to open source projects. I am always eager to learn and assist in any way possible. <br>
 <br>
 🔭 I’m working on some personal projects right now.<br>👯 I’d like to work with others on cool machine learning projects.<br>🤝 I’m looking for help to find an internship.<br>🌱 I’m learning about Natural Language Processing (NLP).<br>💬 Ask me about: Artificial Intelligence, Data Science & Machine Learning.<br>⚡ Fun fact: I love the thrill of coding under pressure during contests!
 
