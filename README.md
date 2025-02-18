@@ -17,11 +17,11 @@ I am a Final-year student at Guru Gobind Singh Indraprastha University in New De
  
 
 # 💻 Technical SKills:
-* **Programming Language:** Python<br>
+* **Programming Language:** Python, SQL<br>
 * **Machine Learning Skills:** Statistics, Data Analysis, Deep Learning, CNN, LLM, Langchain<br>
-* **Libraries:** Numpy, Pandas, Seaborn, Scikit-Learn, TensorFlow, Keras, Pytorch, LLM, OPENAI<br>
+* **Libraries:** Numpy, Pandas, Seaborn, Scikit-Learn, TensorFlow, Keras, Pytorch, LLM, OPENAI, GANs, Transformers<br>
 * **Web Development:** HTML, CSS<br>
-* **Software & Utilities:** VS Code, Jupyter, Basics of MS Office, Power BI<br>
+* **Software & Utilities:** VS Code, Jupyter, Basics of MS Office, Power BI, Git & Github, JIRA<br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Shubham-Singla259&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -40,10 +40,4 @@ I am a Final-year student at Guru Gobind Singh Indraprastha University in New De
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Shubham-Singla259&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=Shubham-Singla259&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
