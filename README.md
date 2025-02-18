@@ -1,10 +1,12 @@
 <div align="center">
   <h1>Hey 👋, I'm Shubham Singla!</h1>
 </div>
-
 <div align="center">
-  <h3> LET ME INTRODUCE MYSELF: </h3>
-</div>
+<h3>Ex- AI/ML Intern @ Febi.ai  | Ex- AI Intern @ PeerUp  | Final year Undergraduate in AI/DS-ML at GGSIPU</h3>
+</div><br>
+
+  <h4> LET ME INTRODUCE MYSELF: </h4>
+
 
 I am a Final-year student at Guru Gobind Singh Indraprastha University in New Delhi, pursuing a Bachelor of Technology in Artificial Intelligence & Data Science. With a strong passion for Data Science, Machine Learning, and Python programming, I actively contribute to open source projects. I am always eager to learn and assist in any way possible. <br>
 <br>
