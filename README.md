@@ -2,7 +2,7 @@
   <h1>Hey 👋, I'm Shubham Singla!</h1>
 </div>
 <div align="center">
-<h3>Ex- AI/ML Intern @ Febi.ai | Ex- AI Intern @ PeerUp | B.Tech Graduate in AI & DS from GGSIPU (9.76 CGPA)</h3>
+<h3>AI&ML Intern @ Atlanta Systems Pvt. Ltd. | Ex- AI/ML Intern @ Febi.ai | Ex- AI Intern @ PeerUp | B.Tech Graduate in AI & DS from GGSIPU (9.76 CGPA)</h3>
 </div><br>
 
 <h4> LET ME INTRODUCE MYSELF: </h4>
